@@ -40,12 +40,12 @@ fb_app_id:
 # valine comment system. https://valine.js.org
 valine:
   enable: true # if you want use valine,please set this value is true
-  appId: 72d07dc0910b97aa44065f846af4882d # leancloud application app id
-  appKey: 0b1710fc9b693057805256aa2dc84c09 # leancloud application app key
+  appId: g3rge4jyF7CUbi23G4ni4Nm6-MdYXbMMI # leancloud application app id
+  appKey: CsnkTvmsFmGyFBM8C2E9DvSp # leancloud application app key
   notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
   verify: false # valine verify code (true/false)
   pageSize: 10 # comment list page size
   avatar: mm # gravatar style https://valine.js.org/#/avatar
   lang: zh-cn # i18n: zh-cn/en
-  placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
+  placeholder: 你想说什么？ # valine comment input placeholder(like: Please leave your footprints )
   guest_info: nick,mail,link #valine comment header info
