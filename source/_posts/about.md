@@ -1,7 +1,6 @@
 ---
 title: 关于
 date: 2020-05-22 19:20:33
-layout: about
 ---
 
 # 我自己-MTR
