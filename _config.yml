@@ -10,7 +10,7 @@ keywords: 个人博客
 author: MTR
 theme: fluid  # 指定主题
 language: zh-CN  # 指定语言，可不改
-timezone: Beijing
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
