@@ -1,6 +1,5 @@
 ---
 title: 关于
-date: 2020-05-22 19:20:33
 ---
 
 # 我自己-MTR
@@ -27,4 +26,4 @@ BaiduTieba：[这里](https://tieba.baidu.com/home/main?un=zsz%E7%94%A8%E6%88%B7
 
 # 友站
 
-暂无（（（（（（（（（
+暂无（
