@@ -225,3 +225,7 @@ NVIDIA GeForce GT 630：
 开始安装（出现UI）：![1](https://image0.cdn.mtrstatic.tk/hackintosh/start_ui.jpg)
 
 开始安装（对不住了 磁盘）：![1](https://image0.cdn.mtrstatic.tk/hackintosh/fuckDisk.jpg)
+
+总共花费时间：7小时
+
+状态：失败（（（（（
