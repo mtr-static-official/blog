@@ -114,14 +114,14 @@ navbar:
     - { key: 'archive', link: '/archives/', icon: 'iconfont icon-archive-fill' }
     - { key: 'category', link: '/categories/', icon: 'iconfont icon-category-fill' }
     - { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill' }
-    - { key: 'about', link: 'https://about.mtrstatic.tk/', icon: 'iconfont icon-user-fill' }
+    - { key: 'about', link: '/links/', icon: 'iconfont icon-user-fill' }
     - { key: 'links', link: 'https://links.mtrstatic.tk/', icon: 'iconfont icon-link-fill' }  # 友链页，把前面#去掉即可展示
     #- { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }  # 友链页，把前面#去掉即可展示
 
 search: # 搜索栏，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件。
   enable: true
   path: /local-search.xml # 文件引用地址，默认是下方生成位置，也可以将生成后的 local-search.xml 上传到其它位置引用，如：https://www.example.com/local-search.xml
-  generate_path: /local-search.xml # 文件生成位置，必须为相对位置
+  generate_path: /local-search.xml # 生成位置，必须为相对位置
   field: post
   content: true
 
