@@ -399,3 +399,9 @@ links:
       link: 'https://vision.mtrstatic.cf',
       image: 'https://i.loi.et/2018/0/28/5ae46811094e6.jpg'
     }
+    - {
+      title: 'MTR博客镜像',
+      intro: 'MTR',
+      link: 'https://zsz1447.gitee.io',
+      image: 'https://i.loi.et/2018/0/28/5ae46811094e6.jpg'
+    }
