@@ -8,7 +8,7 @@ subtitle: 所以，为什么呢...？
 description: MTR的博客 应该没什么人来看
 keywords: 个人博客
 author: MTR
-theme: fluid  # 指定主题
+theme: argon  # 指定主题
 language: zh-CN  # 指定语言，可不改
 timezone: Asia/Shanghai
 
