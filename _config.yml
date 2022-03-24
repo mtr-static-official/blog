@@ -4,17 +4,17 @@
 
 # Site
 title: MTR 博客
-subtitle: 所以，为什么呢...？
-description: MTR的博客 应该没什么人来看
+subtitle: 
+description: MTR的博客
 keywords: 个人博客
 author: MTR
-theme: argon  # 指定主题
+theme: fluid  # 指定主题
 language: zh-CN  # 指定语言，可不改
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://mtrstatic.ga
+url: https://mtr-blog.vercel.app
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
